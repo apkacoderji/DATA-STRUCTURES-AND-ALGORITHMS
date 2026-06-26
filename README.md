@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
