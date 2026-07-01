@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
