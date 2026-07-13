@@ -10,7 +10,7 @@ class Solution(object):
         start1 = intervals[0][0]
         end1 = intervals[0][1]
 
-        for i in range(1,len(intervals)):
+        for i in range(len(intervals)):
             start2 = intervals[i][0]
             end2 = intervals[i][1]
 
