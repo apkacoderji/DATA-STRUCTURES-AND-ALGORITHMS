@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+| [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
