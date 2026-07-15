@@ -5,16 +5,28 @@ class Solution(object):
         :type newInterval: List[int]
         :rtype: List[List[int]]
         """
-        intervals.append(newInterval)
-        intervals.sort()
+        n = len(intervals)
+        new_intervals = []
+        insert = True
+        
+        for i in range(n):
+
+            if intervals[i][0] > newInterval[0] and insert == True:
+                new_intervals.append(newInterval)
+                insert = False
+                
+            new_intervals.append(intervals[i])
+        
+        if insert == True:
+            new_intervals.append(newInterval)
+
         ans = []
+        start1 = new_intervals[0][0]
+        end1 = new_intervals[0][1]
 
-        start1 = intervals[0][0]
-        end1 = intervals[0][1]
-
-        for i in range(1,len(intervals)):
-            start2 = intervals[i][0]
-            end2 = intervals[i][1]
+        for i in range(1,len(new_intervals)):
+            start2 = new_intervals[i][0]
+            end2 = new_intervals[i][1]
 
             if end1 >= start2:#merge
                 end1 = max(end1,end2)
