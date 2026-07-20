@@ -7,9 +7,8 @@ class Solution(object):
         stack = []
 
         for i in range(len(s)):
-            if not stack:
-                stack.append(s[i])
-            elif s[i] != stack[-1]:
+            
+            if not stack or s[i] != stack[-1]:
                 stack.append(s[i])
             else:
                 stack.pop()
