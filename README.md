@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
