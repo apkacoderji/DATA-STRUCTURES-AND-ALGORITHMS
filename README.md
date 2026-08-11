@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0152-maximum-product-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
