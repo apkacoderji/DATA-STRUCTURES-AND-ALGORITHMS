@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
