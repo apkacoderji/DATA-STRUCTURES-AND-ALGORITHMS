@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
