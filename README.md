@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
