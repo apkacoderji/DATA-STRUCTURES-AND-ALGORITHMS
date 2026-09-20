@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1189-maximum-number-of-balloons) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
