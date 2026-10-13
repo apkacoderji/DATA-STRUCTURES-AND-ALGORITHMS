@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0986-interval-list-intersections) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/apkacoderji/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
